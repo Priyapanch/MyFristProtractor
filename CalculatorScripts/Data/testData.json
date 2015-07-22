@@ -1,0 +1,14 @@
+{
+  "AddInput1":3,
+  "AddInput2":4,
+  "AddOutput":"7",
+  "AddHistory":"3 + 4 7",
+  "SubInput1":100,
+  "SubInput2":2,
+  "SubOutput":"98",
+  "SubHistory":"100 - 2 92",
+  "MulInput1":5,
+  "MulInput2":6,
+  "MulOutput":"30",
+  "MulHistory":"5 * 6 31"
+}

@@ -1,6 +1,6 @@
 // An example configuration file.
 //var HtmlScreenshotReporter = require('C:/Users/Administrator/AppData/Roaming/npm/node_modules/protractor-jasmine2-screenshot-reporter');
-var Jsondata = require('./CalculatorScripts/testData.json');
+var Jsondata = require('./CalculatorScripts/Data/testData.json');
 //var folderName = (new Date()).toString().split(' ').splice(1, 4).join(' ');
 exports.config = {
 

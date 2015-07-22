@@ -1,6 +1,6 @@
 describe('super calculator actions' , function(){
 
-    var CalculatorPage = require('./Calc_Page.js');
+    var CalculatorPage = require('./PageObjects/Calc_Page.js');
     var exparams = browser.params;
 
     it('SUBTRACTION',function(){
